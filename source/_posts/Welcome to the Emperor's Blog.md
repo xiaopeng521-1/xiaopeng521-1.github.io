@@ -3,7 +3,7 @@ title: Welcome to the Emperor's new Blog
 ---
 Welcome to Emperor's Blog! This is  xiaopeng's first post. 如果你想要更好的了解我，你可以保留我的微信：szp050821  
      
-<!-- more -->
+
 ---
 
 **鄙人略内向，且抽象**
@@ -18,7 +18,9 @@ Welcome to Emperor's Blog! This is  xiaopeng's first post. 如果你想要更好
 
  因克制而矛盾，因矛盾而遗憾  
 
- 我希望用不忘记，理智，美德，爱情
+ 我希望用不忘记
+ 
+ 理智，美德，爱情
 
  离你越远，我就越爱你
 
@@ -37,6 +39,8 @@ Welcome to Emperor's Blog! This is  xiaopeng's first post. 如果你想要更好
  如果    从你的全世界路过
 
  那么    我在终点等你
+
+ 通往天堂的路狭窄难行，找到它的人很少 
 
 '''
 
